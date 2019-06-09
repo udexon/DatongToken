@@ -2,7 +2,7 @@
 
 Datong 大同 literally means Grand Harmony or Grand Unifying Token. We envision it to be the token that would unify all tokens.
 
-Ever since the Bretton Woods Treaty initiated the movement to abolish gold and silver bullions as primary currencies around the world, we now have national currencies as well as a myraid of cryptocurrencies.
+Ever since the Bretton Woods Treaty initiated the movement to abolish gold and silver bullions as primary currencies around the world, we now have numerous national currencies as well as a myraid of cryptocurrencies.
 
 Is it possible to create a token to unify them all? The solution appears to be so simple. Mathematically speaking, when a simple solution is discovered for a difficult problem, then we are actually discovering something great.
 
