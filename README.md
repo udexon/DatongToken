@@ -42,6 +42,8 @@ Let's illustrate the two scenarios in diagrams:
 
 Scenario 1
 
+We now have sufficient understanding to compare and analyse various fundamental issues concerning international financial transactions, cryptocurrencies and Datong Token.
+
 A       B
 
 |        ^
@@ -50,6 +52,8 @@ v        |
 C ---> D
 
 :arrow_up:
+
+&#8595;
 
     :arrow_up: U+2B06
 
