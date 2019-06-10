@@ -22,3 +22,44 @@ https://www.reddit.com/r/crypto/
 
 ### (Non)-Adoption of Cryptocurrencies
 
+Datong Token immediately solves the adoption problem of cryptocurrencies. In order for a particular cryptocurrency to be useful, by definition, the sender and the recipient both have to create a personal account for the cryptocurrency concerned.
+
+In Datong Token, the mechanisms involved in a cryptocurrency transaction are broken down to the bare minimum. In the scenario described above for payment using Datong Token, the sender and recipient do not need to create personal accounts on Datong system. 
+
+After A sends the token to B, presumably via a mobile chat service such as WhatsApp, B will use a Datong app to process then token, then send a new token to agent C. Agent C again will use a Datong app to process the token, and send a new token to Agent D. Agent D will also use a Datong app to process the token, and send a new token to Sender A.
+
+(We use the term "a Datong app" to imply the fact that third parties may produce apps that comply to the Datong protocols.)
+
+All the transmissions of token can be done by sending text messages on chat apps like WhatsApp.
+
+Finally, A will use a Datong app to verify then token from D, to confirm that D is an authorized agent who will send money via conventional means to C, and C will send money via conventional means to B. After this confirmation, A may send money to D via conventional means, to initiate the transaction. 
+
+Now consider this variation:
+
+-- Agent D sends money using cryptocurrency L to Agent C.
+
+Let's illustrate the two scenarios in diagrams:
+
+Scenario 1
+
+A       B
+
+|        ^
+v        |
+
+C ---> D
+
+:arrow_up:
+
+    :arrow_up: U+2B06
+
+    :arrow_down: U+2B07
+
+    :arrow_left: U+2B05
+
+    :arrow_right: U+27A1
+
+    left arrow: ← &#8592;
+    upward arrow: ↑ &#8593;
+    right arrow: → &#8594;
+    downward arrow: ↓ &#8595;
