@@ -58,6 +58,24 @@ In Datong Token, it is the human users (Sender, Recipient, Agents) who will perf
 
 
 
+Just like HTML and Linux, something small and simple can replicate worldwide and become revolutionary.
+
+Consider a simple act of tipping an Instamgrammer in a developing country like Vietnam using Datong Token.
+
+The Sender A only has to send the Recipient B a text message M, consisting of A's public key APBK, and tip amount X in a local currency, e.g. Vietnam Dong (VND).
+
+At this point, B does not have a Datong account yet. She (he) received the message M from A via private message, or possibly in an Instagram comment, which is publicly viewable. This might be done for promotional purposes, i.e. to show off to other followers.
+
+B only has to download a Datong app and use it to generate her (his) own public key BPBK.
+
+B will then send her public key BPBK to an agent C, together with message M, using the Datong app.
+
+C would need to find an Agent D in the home country of Sender A, who would then collect the payment from A in their national currency using their national banking system. C would pass the message from B to D. D would send the message to A to verify the transaction. The chain of payments as described above will be performed to complete the transaction.
+
+Datong network would have many agents in each country, so that they would compete with each other to lower their commissions.
+
+
+
 From the technical perspective, what are the roles of RSA in both scenarios?
 
 https://en.bitcoin.it/wiki/How_bitcoin_works
