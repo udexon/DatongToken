@@ -56,6 +56,8 @@ In Datong Token, it is the human users (Sender, Recipient, Agents) who will perf
 
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_bch.png" width="600"  />
 
+
+
 From the technical perspective, what are the roles of RSA in both scenarios?
 
 https://en.bitcoin.it/wiki/How_bitcoin_works
