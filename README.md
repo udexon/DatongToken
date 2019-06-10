@@ -48,6 +48,12 @@ We now have sufficient understanding to compare and analyse various fundamental 
 
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_bch.png" width="600"  />
 
+From the technical perspective, what are the roles of RSA in both scenarios?
+
+https://en.bitcoin.it/wiki/How_bitcoin_works
+
+First is public key cryptography. Each coin is associated with its current owner's public ECDSA key. When you send some bitcoins to someone, you create a message (transaction), attaching the new owner's public key to this amount of coins, and sign it with your private key. When this transaction is broadcast to the bitcoin network, this lets everyone know that the new owner of these coins is the owner of the new key. Your signature on the message verifies for everyone that the message is authentic. The complete history of transactions is kept by everyone, so anyone can verify who is the current owner of any particular group of coins.
+
 ```
 <img src="http://....jpg" width="200" height="200" />
 
