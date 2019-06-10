@@ -44,6 +44,16 @@ Scenario 1
 
 We now have sufficient understanding to compare and analyse various fundamental issues concerning international financial transactions, cryptocurrencies and Datong Token.
 
+![](pay_bch.png =250x)
+
+![](https://github.com/udexon/DatongToken/blob/master/pay_bch.png  =250x)
+
+```
+![alt text][scene1]
+
+[scene1]: https://github.com/udexon/DatongToken/blob/master/pay_bch.png 
+```
+
 A       B
 
 |        ^
