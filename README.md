@@ -44,7 +44,13 @@ Scenario 1
 
 We now have sufficient understanding to compare and analyse various fundamental issues concerning international financial transactions, cryptocurrencies and Datong Token.
 
-Firstly, as with Bitcoin, we use RSA to ....
+Firstly, as with Bitcoin, we use RSA cryptosystem to authenticate the users (Sender, Recipient, Agents). 
+
+However, in Bitcoin, after the sender and recipient identities are authenticated, the programs concerned automatically carry out a series of operations to deduct the balance from the wallet of the sender and add the exact same amount in the recipient's wallet (which can be either in software or hardware).
+
+In Datong Token, it is the human users (Sender, Recipient, Agents) who will perform the operations as specified in the token.
+
+....
 
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_wu.png" width="600"  />
 
