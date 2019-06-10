@@ -19,3 +19,6 @@ Once the payment chain is verified, Agent D may collect cash from Sender A physi
 https://www.reddit.com/r/programming/
 
 https://www.reddit.com/r/crypto/
+
+### (Non)-Adoption of Cryptocurrencies
+
