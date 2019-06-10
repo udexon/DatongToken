@@ -44,6 +44,8 @@ Scenario 1
 
 We now have sufficient understanding to compare and analyse various fundamental issues concerning international financial transactions, cryptocurrencies and Datong Token.
 
+Firstly, as with Bitcoin, we use RSA to ....
+
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_wu.png" width="600"  />
 
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_bch.png" width="600"  />
