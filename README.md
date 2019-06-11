@@ -2,6 +2,10 @@
 
 Datong 大同 literally means Grand Harmony or Grand Unifying Token. We envision it to be the token that would unify all tokens.
 
+The name Datong is inspired by a legendary classic text by Confucius 礼运大同篇 Liyun Datong Chapter, where a utopian world view is depicted. In fact, we believe that Datong Token can become something revolutionary just like HTML and Linux, where technology accelerate the cycle of wealth and value creation, helping us making the world better faster.
+
+https://wk.baidu.com/view/40b64923f5335a8102d220db?pcf=2
+
 Ever since the Bretton Woods Treaty initiated the movement to abolish gold and silver bullions as primary currencies around the world, we now have numerous national currencies as well as a myraid of cryptocurrencies.
 
 Is it possible to create a token to unify them all? The solution appears to be so simple. Mathematically speaking, when a simple solution is discovered for a difficult problem, then we are actually discovering something great.
