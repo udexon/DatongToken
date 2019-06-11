@@ -40,15 +40,20 @@ Now consider this variation:
 
 Let's illustrate the two scenarios in diagrams:
 
-<img src="https://github.com/udexon/DatongToken/blob/master/pay_wu.png" width="600"  />
-Scenario 1
+Scenario 1:
+<img src="https://github.com/udexon/DatongToken/blob/master/pay_wu.png" width="400"  />
 
-<img src="https://github.com/udexon/DatongToken/blob/master/pay_bch.png" width="600"  />
-Scenario 2
+
+Scenario 2:
+<img src="https://github.com/udexon/DatongToken/blob/master/pay_bch.png" width="400"  />
+
 
 
 
 We now have sufficient understanding to compare and analyse various fundamental issues concerning international financial transactions, cryptocurrencies and Datong Token.
+
+From the technical perspective, what are the roles of RSA in both scenarios?
+
 
 Firstly, as with Bitcoin, we use RSA cryptosystem to authenticate the users (Sender, Recipient, Agents). 
 
@@ -59,7 +64,6 @@ In Datong Token, it is the human users (Sender, Recipient, Agents) who will perf
 
 
 
-From the technical perspective, what are the roles of RSA in both scenarios?
 
 Just like HTML and Linux, something small and simple can replicate worldwide and become revolutionary.
 
