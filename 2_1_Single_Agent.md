@@ -32,3 +32,5 @@ Much of Asia including Chinese territories (mainland China and overseas) still a
 https://en.wikipedia.org/wiki/Hawala
 
 Consider the scenario described above, Sender A would deposit MYR 200 with the Agent C, who would allow him to remit up to MYR 100 using Datong Token, while earning interests from A's deposit. In addition, A may earn interests from his own deposit.
+
+Consultant companies like Accenture can help Datong obtain licenses to operate legally around the world, as they have the interests, expertise and infrastructure, and Datong Token is the magic potion they need to initiate the next financial revolution.
