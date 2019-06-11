@@ -40,7 +40,13 @@ Now consider this variation:
 
 Let's illustrate the two scenarios in diagrams:
 
+<img src="https://github.com/udexon/DatongToken/blob/master/pay_wu.png" width="600"  />
 Scenario 1
+
+<img src="https://github.com/udexon/DatongToken/blob/master/pay_bch.png" width="600"  />
+Scenario 2
+
+
 
 We now have sufficient understanding to compare and analyse various fundamental issues concerning international financial transactions, cryptocurrencies and Datong Token.
 
@@ -50,13 +56,10 @@ However, in Bitcoin, after the sender and recipient identities are authenticated
 
 In Datong Token, it is the human users (Sender, Recipient, Agents) who will perform the operations as specified in the token.
 
-....
-
-<img src="https://github.com/udexon/DatongToken/blob/master/pay_wu.png" width="600"  />
-
-<img src="https://github.com/udexon/DatongToken/blob/master/pay_bch.png" width="600"  />
 
 
+
+From the technical perspective, what are the roles of RSA in both scenarios?
 
 Just like HTML and Linux, something small and simple can replicate worldwide and become revolutionary.
 
@@ -76,7 +79,7 @@ Datong network would have many agents in each country, so that they would compet
 
 
 
-From the technical perspective, what are the roles of RSA in both scenarios?
+
 
 https://en.bitcoin.it/wiki/How_bitcoin_works
 
@@ -85,41 +88,3 @@ First is public key cryptography. Each coin is associated with its current owner
 https://www.dummies.com/software/other-software/bitcoin-public-private-keys/
 
 https://coinsutra.com/bitcoin-private-key/
-
-```
-<img src="http://....jpg" width="200" height="200" />
-
-
-![](pay_bch.png =250x)
-
-![](https://github.com/udexon/DatongToken/blob/master/pay_bch.png  =250x)
-
-
-![alt text][scene1]
-
-[scene1]: https://github.com/udexon/DatongToken/blob/master/pay_bch.png 
-```
-
-A       B
-
-|        ^
-v        |
-
-C ---> D
-
-:arrow_up:
-
-&#8595;
-
-    :arrow_up: U+2B06
-
-    :arrow_down: U+2B07
-
-    :arrow_left: U+2B05
-
-    :arrow_right: U+27A1
-
-    left arrow: ← &#8592;
-    upward arrow: ↑ &#8593;
-    right arrow: → &#8594;
-    downward arrow: ↓ &#8595;
