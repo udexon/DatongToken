@@ -22,3 +22,13 @@ As described previously, Datong Token is useful when the tippee (party receiving
 
 8. C pays B via online banking system.
 
+
+Accenture reported that there are more the underbanked or unbanked persons made up more than one third of the world's population than.
+
+https://www.accenture.com/my-en/insight-billion-reasons-bank-inclusively
+
+Much of Asia including Chinese territories (mainland China and overseas) still actively use something similar to the traditional Hawala system.
+
+https://en.wikipedia.org/wiki/Hawala
+
+Consider the scenario described above, Sender A would deposit MYR 200 with the Agent C, who would allow him to remit up to MYR 100 using Datong Token, while earning interests from A's deposit.
