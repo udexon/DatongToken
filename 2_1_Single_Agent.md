@@ -31,4 +31,4 @@ Much of Asia including Chinese territories (mainland China and overseas) still a
 
 https://en.wikipedia.org/wiki/Hawala
 
-Consider the scenario described above, Sender A would deposit MYR 200 with the Agent C, who would allow him to remit up to MYR 100 using Datong Token, while earning interests from A's deposit.
+Consider the scenario described above, Sender A would deposit MYR 200 with the Agent C, who would allow him to remit up to MYR 100 using Datong Token, while earning interests from A's deposit. In addition, A may earn interests from his own deposit.
