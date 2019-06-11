@@ -23,7 +23,7 @@ As described previously, Datong Token is useful when the tippee (party receiving
 8. C pays B via online banking system.
 
 
-Accenture reported that there are more the underbanked or unbanked persons made up more than one third of the world's population than.
+Accenture reported that there are more the underbanked or unbanked persons made up more than one third of the world's population than, and a potential of USD 380 billion of revenues from this segment of population.
 
 https://www.accenture.com/my-en/insight-billion-reasons-bank-inclusively
 
