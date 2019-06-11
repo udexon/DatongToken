@@ -1,4 +1,4 @@
-# Datong Token
+# Datong Token 大同币
 
 Datong 大同 literally means Grand Harmony or Grand Unifying Token. We envision it to be the token that would unify all tokens.
 
