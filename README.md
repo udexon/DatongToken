@@ -85,10 +85,13 @@ C would need to find an Agent D in the home country of Sender A, who would then 
 Datong network would have many agents in each country, so that they would compete with each other to lower their commissions.
 
 
-### Further reading:
+#### Follow Up:
 
 [ Datong Token Demo Code ](https://github.com/udexon/DatongToken/blob/master/RSA.md)
 
+[ Datong Token Single Agent Use Case #1 ](https://github.com/udexon/DatongToken/blob/master/2_1_Single_Agent.md)
+
+#### Further Reading:
 
 https://en.bitcoin.it/wiki/How_bitcoin_works
 
