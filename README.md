@@ -1,5 +1,12 @@
 # Datong Token 大同币
 
+> Datong Token 大同币: a simple yet extensible and revolutionary cryptocurrency framework based on
+RSA cryptosystem, developed using Homogenet. Datong is taken from Confucius’ legendary
+teaching 礼运大同篇 Liyun Datong chapter, where a utopian worldview is depicted. Datong
+Token can be used to interface to all national currencies, bullions and other cryptocurrencies,
+as well as serving the unbanked population, estimated to be more than 1/3 of world
+population.
+
 Datong 大同 literally means Grand Harmony or Grand Unifying Token. We envision it to be the token that would unify all tokens.
 
 The name Datong is inspired by a legendary classic text by Confucius 礼运大同篇 Liyun Datong Chapter, where a utopian world view is depicted. In fact, we believe that Datong Token can become something revolutionary just like HTML and Linux, where technology accelerate the cycle of wealth and value creation, helping us making the world better faster.
