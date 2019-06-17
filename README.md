@@ -89,7 +89,9 @@ B will then send her public key BPBK to an agent C, together with message M, usi
 
 C would need to find an Agent D in the home country of Sender A, who would then collect the payment from A in their national currency using their national banking system. C would pass the message from B to D. D would send the message to A to verify the transaction. The chain of payments as described above will be performed to complete the transaction.
 
-Datong network would have many agents in each country, so that they would compete with each other to lower their commissions.
+Datong network would have many agents in each country, so that they would compete with each other to lower their commission fees.
+
+As a result, agents using cryptocurrencies will have much greater demand for international money transfer, which in turn improve the adoption of cryptocurrencies.
 
 
 #### Follow Up:
