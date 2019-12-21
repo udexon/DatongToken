@@ -14,6 +14,11 @@ Cryptocurrencies and the blockchain technologies have been the literal black hor
 
 Another area where novel methods in user identity management will be critical  is ___CLOUDLESS COMPUTING___, i.e. utilizing the computing power of mobile devices instead of those of the servers in the fixed line networks.
 
+
+### WebSocket + RSA
+
+https://dev.to/spukas/learn-websockets-by-building-simple-chat-app-dee
+
 <img src="https://github.com/udexon/DatongToken/blob/master/Party_A.png" width=700>
 
 <img src="https://github.com/udexon/DatongToken/blob/master/Party_B.png" width=700>
