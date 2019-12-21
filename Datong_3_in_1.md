@@ -17,6 +17,8 @@ Another area where novel methods in user identity management will be critical  i
 
 ### WebSocket + RSA
 
+The following is an example for Datong Token using WebSocket and RSA.
+
 https://dev.to/spukas/learn-websockets-by-building-simple-chat-app-dee
 
 <img src="https://github.com/udexon/DatongToken/blob/master/Party_A.png" width=700>
