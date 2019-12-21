@@ -21,6 +21,19 @@ The following is an example for Datong Token using WebSocket and RSA.
 
 https://dev.to/spukas/learn-websockets-by-building-simple-chat-app-dee
 
+In figure 1, Party A sends its public key to the WebSocket server:
+- `F("exkey: wss:")`
+
+In figure 2, Party B imports the public key from Party A (PUBKEY_A):
+- `S.push("-----BEGIN PUBLIC KEY----- MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKMbgVsxfz4De98F1Ba02klrAf+bLzOt RCxSY3IpwWpa3Mg1AOiiQ/sPxtDUs+oLiZci4Rh9x4+RMc4GWuGCWa0CAwEAAQ== -----END PUBLIC KEY-----")`
+- `F("imkey: hello_phos ecr: wss:")`
+
+and encrypt a message ("hello__phos"), then sends it to the WebSocket server.
+
+In figure 1, Paty A decrypts the encrypted message:
+- `S.push("EQsUAvAC87EYthks4TQDoTqVmKx9ziDN/80l9Z0GcLQrMri1VgTuJ3Jz/SpxflCPlveZ2p5yDhxB3eD4bNvCIQ==")`
+- `F("dcr:")`
+
 <img src="https://github.com/udexon/DatongToken/blob/master/Party_A.png" width=700>
 
 <img src="https://github.com/udexon/DatongToken/blob/master/Party_B.png" width=700>
