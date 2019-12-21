@@ -13,3 +13,7 @@ As the number of social media apps and cryptocurrencies increase, users generall
 Cryptocurrencies and the blockchain technologies have been the literal black horse in the past decade. Despite its upheavals in the past few years, Bitcoin has firmly established the viability of cryptocurrencies with about USD130 billion market capitalization. Nevertheless, the complications arising from user identity management may become a bottleneck for its continued growth.
 
 Another area where novel methods in user identity management will be critical  is ___CLOUDLESS COMPUTING___, i.e. utilizing the computing power of mobile devices instead of those of the servers in the fixed line networks.
+
+<img src="https://github.com/udexon/DatongToken/blob/master/Party_A.png" width=700>
+
+<img src="https://github.com/udexon/DatongToken/blob/master/Party_B.png" width=700>
