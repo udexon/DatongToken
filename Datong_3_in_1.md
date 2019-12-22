@@ -19,9 +19,6 @@ Another area where novel methods in user identity management will be critical  i
 
 The following is an example for Datong Token using WebSocket and RSA.
 
-https://dev.to/spukas/learn-websockets-by-building-simple-chat-app-dee
-
-
 
 <img src="https://github.com/udexon/DatongToken/blob/master/Party_A.png" width=700>
 
@@ -43,6 +40,13 @@ The basic operations of the Phos smashlet include:
 - `F("exkey: wss:")`
 
 Each token is mapped to a JavaScript function as shown in figure 3. The Phos word (function token) `exkey:` is mapped to function `fgl_exkey()`, etc.
+
+The websocket code is taken from:
+
+https://dev.to/spukas/learn-websockets-by-building-simple-chat-app-dee
+
+The websocket server will send the incoming message to ALL websocket clients that are connected. As such, a message sent from Party A will be sent to both Party A and Party B by the server. 
+
 
 2. In figure 2, Party B imports the public key from Party A (PUBKEY_A):
 - `S.push("-----BEGIN PUBLIC KEY----- MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKMbgVsxfz4De98F1Ba02klrAf+bLzOt RCxSY3IpwWpa3Mg1AOiiQ/sPxtDUs+oLiZci4Rh9x4+RMc4GWuGCWa0CAwEAAQ== -----END PUBLIC KEY-----")`
