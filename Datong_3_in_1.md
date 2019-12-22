@@ -47,6 +47,7 @@ https://dev.to/spukas/learn-websockets-by-building-simple-chat-app-dee
 
 The websocket server will send the incoming message to ALL websocket clients that are connected. As such, a message sent from Party A will be sent to both Party A and Party B by the server. 
 
+The public key encription library is based on `npm node-rsa` and converted for browser use with `browserify`.
 
 2. In figure 2, Party B imports the public key from Party A (PUBKEY_A):
 - `S.push("-----BEGIN PUBLIC KEY----- MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKMbgVsxfz4De98F1Ba02klrAf+bLzOt RCxSY3IpwWpa3Mg1AOiiQ/sPxtDUs+oLiZci4Rh9x4+RMc4GWuGCWa0CAwEAAQ== -----END PUBLIC KEY-----")`
@@ -78,4 +79,4 @@ function fgl_ecr() // encrypt
 {    S.push( key.encrypt( S.pop(), 'base64') );  }
 ```
 
-node-rsa browserify ...
+
