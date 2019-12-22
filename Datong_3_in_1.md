@@ -77,3 +77,5 @@ function fgl_dcr() // decrypt
 function fgl_ecr() // encrypt
 {    S.push( key.encrypt( S.pop(), 'base64') );  }
 ```
+
+node-rsa browserify ...
