@@ -53,7 +53,7 @@ and encrypt a message ("hello__phos"), then sends it to the WebSocket server.
 - `F("dcr:")`
 
 
-```
+```JavaScript
 ws = connection;
 
 function fgl_wss() // websocket send
