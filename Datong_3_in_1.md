@@ -40,3 +40,5 @@ In figure 1, Paty A decrypts the encrypted message:
 
 
 #### Phos Stack Machine Shell (Smashlet) Programming
+
+Stack Machine Shelll (Smashlet) is similar to C++-to-Python, C++-to-Java or other application programming interface involving different programming languages. In this case, C++ is the "upstream" programming language and Python and Java are the "downstream" programming language, using analogy from supply chain model.
