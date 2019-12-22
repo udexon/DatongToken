@@ -42,6 +42,8 @@ The basic operations of the Phos smashlet include:
 1. In figure 1, Party A sends its public key to the WebSocket server:
 - `F("exkey: wss:")`
 
+Each token is mapped to a JavaScript function as shown in figure 3. The Phos word (function token) `exkey:` is mapped to function `fgl_exkey()`, etc.
+
 2. In figure 2, Party B imports the public key from Party A (PUBKEY_A):
 - `S.push("-----BEGIN PUBLIC KEY----- MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKMbgVsxfz4De98F1Ba02klrAf+bLzOt RCxSY3IpwWpa3Mg1AOiiQ/sPxtDUs+oLiZci4Rh9x4+RMc4GWuGCWa0CAwEAAQ== -----END PUBLIC KEY-----")`
 - `F("imkey: hello_phos ecr: wss:")`
