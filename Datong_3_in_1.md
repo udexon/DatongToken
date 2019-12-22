@@ -51,3 +51,23 @@ and encrypt a message ("hello__phos"), then sends it to the WebSocket server.
 3. In figure 1, Paty A decrypts the encrypted message:
 - `S.push("EQsUAvAC87EYthks4TQDoTqVmKx9ziDN/80l9Z0GcLQrMri1VgTuJ3Jz/SpxflCPlveZ2p5yDhxB3eD4bNvCIQ==")`
 - `F("dcr:")`
+
+
+```
+ws = connection;
+
+function fgl_wss() // websocket send
+{   ws.send( S.pop() ); }
+
+function fgl_exkey()
+{    S.push( key.exportKey('pkcs8-public-pem') ); }
+
+function fgl_imkey()
+{    key.importKey( S.pop() );  }
+
+function fgl_dcr() // decrypt
+{    S.push( key.decrypt( S.pop(), 'utf-8') );  }
+
+function fgl_ecr() // encrypt
+{    S.push( key.encrypt( S.pop(), 'base64') );  }
+```
