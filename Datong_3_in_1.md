@@ -41,4 +41,11 @@ In figure 1, Paty A decrypts the encrypted message:
 
 #### Phos Stack Machine Shell (Smashlet) Programming
 
-Stack Machine Shelll (Smashlet) is similar to C++-to-Python, C++-to-Java or other application programming interface involving different programming languages. In this case, C++ is the "upstream" programming language and Python and Java are the "downstream" programming language, using analogy from supply chain model.
+Stack Machine Shell (Smashlet) is similar to C++-to-Python, C++-to-Java or other application programming interface involving different programming languages. In this case, C++ is the "upstream" programming language and Python and Java are the "downstream" programming language, using analogy from supply chain model.
+
+In smashlet, the upstream programming language can be any of JavaScript, Java, PHP, C++ etc, while the downstream programming language is an implementation of Forth like Reverse Polish Notation called Phos.
+
+The basic operations of the Phos smashlet include:
+- parse a space delimited string into a list of tokens;
+- push non-fuction token onto the stack;
+- map function token to target function in host programming language and execute it.
