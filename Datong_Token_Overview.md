@@ -19,3 +19,26 @@ This is a new area in law --- rules on tipping? Possible to control source code 
 Transaction: 
 - --( is a high level function of )--> Identity Management
 - --( is a high level function of )--> Cryptography
+
+Start with DT applied to face to face payments and Western Union. Describe its abstract significance.
+
+Redefine user identity, money, national supervision, person vs. government rights, banking system, financial institution etc.
+
+https://en.bitcoin.it/wiki/Transaction
+
+Bitcoin and code represent one of the most comprehensive documentation and code for financial transactions. 
+
+Explain: how to develop network of agents.
+
+Describe the roles and functions of transactions, identity management and cryptography in each of Scenarios I II III.
+
+Scenario IV: Bitcoin users C to Do
+
+Let us attempt to describe a generalized model for Scenarios I to IV.
+
+https://en.wikipedia.org/wiki/Legal_person
+
+Transaction: (is defined as) ... accounts in different countries owned by the same person?
+
+A transaction is defined as the transfer of an amount in currency CP by party A in country P to the equivalent in currency CQ for party B in country Q, minus commission fees.
+For now, we ignore the special cases where a legal person may own bank accounts in different countries, or a user may own more than one accounts of the same cryptocurrency.
