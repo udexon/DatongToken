@@ -16,6 +16,6 @@ This is a new area in law --- rules on tipping? Possible to control source code 
 - Datong app -- meaning?
 - Punchline? Linux and Datong Token both being simple but has great impact?
 
-Transaction 
+Transaction: 
 - --( is a high level function of )--> Identity Management
 - --( is a high level function of )--> Cryptography
