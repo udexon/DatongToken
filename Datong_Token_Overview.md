@@ -2,7 +2,7 @@
 
 [Datong Token Examples](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md) illustrates several issues concerning identity management, cryptocurrencies as well as conventional financial transactions.
 
-Consider Scenario III where Party A sends money to Party B using Western Union in the conventional manner, via Western Union agents.
+Consider the following scenarios.
 
 Scenario I: Online Tipping with Datong Token via Datong Agents using Western Union
 
@@ -19,6 +19,14 @@ Scenario III: Direct Money Transfer using Western Union without Agents
 Scenario IV: Direct Money Transfer using Bitcoin without Agents
 
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_bch_direct.png" width=400>
+
+
+Describe the roles and functions of transactions, identity management and cryptography in each of Scenarios I II III IV.
+
+A transaction is defined as the transfer of an amount in currency CP by party A in country P to the equivalent in currency CQ for party B in country Q, minus commission fees.
+
+For now, we ignore the special cases where a legal person may own bank accounts in different countries, or a user may own more than one accounts of the same cryptocurrency.
+
 
 By comparing Scenarios I, II and III, we may conclude that Datong Token minimizes the costs of transactions for international money transfer, as well as enables a much greater number of people to act as money transfer agents.
 
@@ -46,7 +54,6 @@ Bitcoin and code represent one of the most comprehensive documentation and code 
 
 Explain: how to develop network of agents.
 
-Describe the roles and functions of transactions, identity management and cryptography in each of Scenarios I II III.
 
 Scenario IV: Bitcoin users C to Do
 
@@ -55,6 +62,3 @@ Let us attempt to describe a generalized model for Scenarios I to IV.
 https://en.wikipedia.org/wiki/Legal_person
 
 Transaction: (is defined as) ... accounts in different countries owned by the same person?
-
-A transaction is defined as the transfer of an amount in currency CP by party A in country P to the equivalent in currency CQ for party B in country Q, minus commission fees.
-For now, we ignore the special cases where a legal person may own bank accounts in different countries, or a user may own more than one accounts of the same cryptocurrency.
