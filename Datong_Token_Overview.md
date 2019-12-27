@@ -33,6 +33,11 @@ Bitcoin represents one of the most comprehensive documentation and code for fina
 
 In computerized financial transactions, the most critical aspect is identity management. Conventional implementations for identity management as shown in Scenarios III and IV have been overly complicated and cumbersome. Datong Token managed to simplify identity management as shown in examples .... 
 
+Datong Token reconstruct concepts and protocols for messaging and transactions .... a new platform to build new applications, unify all payment systems ....
+
+Explain: how to develop network of agents.
+
+
 By comparing Scenarios I, II and III, we may conclude that Datong Token minimizes the costs of transactions for international money transfer, as well as enables a much greater number of people to act as money transfer agents.
 
 This is a new area in law --- rules on tipping? Possible to control source code export? What if source code is broken down into pieces? How to enforce? 20 years problem?
@@ -54,10 +59,9 @@ Start with DT applied to face to face payments and Western Union. Describe its a
 Redefine user identity, money, national supervision, person vs. government rights, banking system, financial institution etc.
 
 
-Explain: how to develop network of agents.
 
 
-Scenario IV: Bitcoin users C to Do
+
 
 Let us attempt to describe a generalized model for Scenarios I to IV.
 
