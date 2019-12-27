@@ -4,8 +4,7 @@
 
 Consider the following scenarios.
 
-Scenario I: Online Tipping with Datong Token via Datong Agents using Western Union
-
+`Scenario I: Online Tipping with Datong Token via Datong Agents using Western Union`
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_wu_agents.png" width=400>
 
 Scenario II: Online Tipping with Datong Token via Datong Agents using Bitcoin Cash
