@@ -27,6 +27,14 @@ A transaction is defined as the transfer of an amount in currency CP by party A 
 
 For now, we ignore the special cases where a legal person may own bank accounts in different countries, or a user may own more than one accounts of the same cryptocurrency.
 
+In Scenario III (Direct Money Transfer using Western Union without Agents), identity management is carried out by the Western Union Agents and Systems (software and hardware), utilizing national identity documents and transaction code sent by Sender A to Recipient B.
+
+In Scenario IV (Direct Money Transfer using Bitcon Cash without Agents), identity management and transaction are carried out by a series of operations described in the following document as well as other related resources:
+
+https://en.bitcoin.it/wiki/Transaction
+
+Bitcoin and code represent one of the most comprehensive documentation and code for financial transactions. 
+
 
 By comparing Scenarios I, II and III, we may conclude that Datong Token minimizes the costs of transactions for international money transfer, as well as enables a much greater number of people to act as money transfer agents.
 
@@ -48,9 +56,6 @@ Start with DT applied to face to face payments and Western Union. Describe its a
 
 Redefine user identity, money, national supervision, person vs. government rights, banking system, financial institution etc.
 
-https://en.bitcoin.it/wiki/Transaction
-
-Bitcoin and code represent one of the most comprehensive documentation and code for financial transactions. 
 
 Explain: how to develop network of agents.
 
