@@ -33,8 +33,9 @@ In Scenario IV (Direct Money Transfer using Bitcon Cash without Agents), identit
 
 https://en.bitcoin.it/wiki/Transaction
 
-Bitcoin and code represent one of the most comprehensive documentation and code for financial transactions. 
+Bitcoin represents one of the most comprehensive documentation and code for financial transactions. Bitcoin Cash is a fork (variant) of Bitcoin with a larger block size and shorter transaction time.
 
+In a computerized financial transaction, the most critical aspect is identity management. Conventional implementations for identity management as shown in Scenarios III and IV have been overly complicated and cumbersome. Datong Token managed to simplify identity management as shown in examples .... 
 
 By comparing Scenarios I, II and III, we may conclude that Datong Token minimizes the costs of transactions for international money transfer, as well as enables a much greater number of people to act as money transfer agents.
 
