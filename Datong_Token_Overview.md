@@ -4,17 +4,17 @@
 
 Consider Scenario III where Party A sends money to Party B using Western Union in the conventional manner, via Western Union agents.
 
-Scenario I
-<img src="https://github.com/udexon/DatongToken/blob/master/pay_wu_agents.png" width=500>
+Scenario I: International Online Tipping with Datong Token via Datong Agents using Western Union
+<img src="https://github.com/udexon/DatongToken/blob/master/pay_wu_agents.png" width=400>
 
-Scenario II
-<img src="https://github.com/udexon/DatongToken/blob/master/pay_bch_agents.png" width=500>
+Scenario II: International Online Tipping with Datong Token via Datong Agents using Bitcoin Cash
+<img src="https://github.com/udexon/DatongToken/blob/master/pay_bch_agents.png" width=400>
 
-Scenario III
-<img src="https://github.com/udexon/DatongToken/blob/master/pay_wu_direct.png" width=500>
+Scenario III: Direct Money Transfer using Western Union without Agents
+<img src="https://github.com/udexon/DatongToken/blob/master/pay_wu_direct.png" width=400>
 
-Scenario IV
-<img src="https://github.com/udexon/DatongToken/blob/master/pay_bch_direct.png" width=500>
+Scenario IV: Direct Money Transfer using Bitcoin without Agents
+<img src="https://github.com/udexon/DatongToken/blob/master/pay_bch_direct.png" width=400>
 
 By comparing Scenarios I, II and III, we may conclude that Datong Token minimizes the costs of transactions for international money transfer, as well as enables a much greater number of people to act as money transfer agents.
 
