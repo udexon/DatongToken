@@ -7,16 +7,13 @@ Consider the following scenarios.
 Scenario I: Online Tipping with Datong Token via Datong Agents using Western Union <br>
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_wu_agents.png" width=400>
 
-Scenario II: Online Tipping with Datong Token via Datong Agents using Bitcoin Cash
-
+Scenario II: Online Tipping with Datong Token via Datong Agents using Bitcoin Cash <br>
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_bch_agents.png" width=400>
 
-Scenario III: Direct Money Transfer using Western Union without Agents
-
+Scenario III: Direct Money Transfer using Western Union without Agents <br>
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_wu_direct.png" width=400>
 
-Scenario IV: Direct Money Transfer using Bitcoin without Agents
-
+Scenario IV: Direct Money Transfer using Bitcoin without Agents <br>
 <img src="https://github.com/udexon/DatongToken/blob/master/pay_bch_direct.png" width=400>
 
 
