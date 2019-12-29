@@ -39,9 +39,6 @@ In Datong Token, steps in messaging and transactions are broken down to bare min
 
 While blockchain has inspired many novel ideas and projects, most have not been successfully deployed or gained popularity due to various factors. Besides the fundamental breakthrough in Datong Token in removing user registration while enabling authentication, Phos stack machine shell (Smashlet) enables  better software engineering practices and easier learning, by providing (yet another) homoiconic upstream downstream interface (YAHUDI), where the upstream host programming language is translated to downstream stack machine shell programming language. Thus we believe Phos is able to consolidate programmer communities segemented by programming languages and make learning of programming easier using one universal script derived from Forth like Reverse Polish Notation. We hope this shall recruit more people to collaborate in Datong Token, overcoming the obstacles faced by other blockchain projects.
 
-(Use ... To indicate unfinished paragraph.)
-
-Datong Token reconstruct concepts and protocols for messaging and transactions .... a new platform to build new applications, unify all payment systems ....
 
 Explain: how to develop network of agents.
 
@@ -75,3 +72,7 @@ Let us attempt to describe a generalized model for Scenarios I to IV.
 https://en.wikipedia.org/wiki/Legal_person
 
 Transaction: (is defined as) ... accounts in different countries owned by the same person?
+
+(Use ... To indicate unfinished paragraph.)
+
+Datong Token reconstruct concepts and protocols for messaging and transactions .... a new platform to build new applications, unify all payment systems ....
