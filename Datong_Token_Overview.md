@@ -41,6 +41,9 @@ While blockchain has inspired many novel ideas and projects, most have not been 
 
 As Datong Token eliminates the step of user registration, it benefits end users (senders and recipients) as well as agents. Convenience for users will bring attract more users and they will bring more businesses for agents. It also reduces the barriers of entry to become an agent, thus attracting more people to become agents of Datong Token. In the long run, this will create more competitions and reduce the operating costs. If the number of Datong Token users reaches the equivalent number of Bitcoin users in 5 years, it would create a market capitalization of USD 100 billion. The rate of growth of Datong Token users in turn depends of the number of developers of Datong Token.
 
+- [ Mastering Computer Programming and Abstract Mathematics _One Token At A Time_ with Phos Stack Machine Shell Language (Smashlet) ](https://github.com/udexon/Homoiconism/blob/master/Q23_Phos_Smashlet.md)
+
+
 Explain: how to develop network of agents.
 
 By comparing Scenarios I, II and III, we may conclude that Datong Token minimizes the costs of transactions for international money transfer, as well as enables a much greater number of people to act as money transfer agents.
