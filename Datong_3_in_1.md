@@ -1,8 +1,6 @@
-Datong Token 3-in-1 Module
+### Datong Token Examples (WebSocket + RSA) 
 
-Original App + Phos ( WebSocket + RSA )
-
-三生萬物
+#### 三生萬物 3-in-1 Module: Original App + Phos ( WebSocket + RSA )
 
 The user identity (UID) that is most widely used in social media applications today is largely a direct descendant of the Unix user identity, primarily based on symmetric encryption, i.e. the encryption and decryption for authentication use the same key derived from the password string supplied by the user. The password file is a single file in the /etc directory in most of the Linux operating system in use today. This practice dates back to the 1970 where a large number of users accessed a central server, which ironically were much less powerful than today's Android phone. As such, radically different ways of manageing user identities could have been implemented but unfortunately bad habits die hard.
 
