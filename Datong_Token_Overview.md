@@ -33,6 +33,13 @@ Bitcoin represents one of the most comprehensive documentation and code for fina
 
 In computerized financial transactions, the most critical aspect is identity management. Conventional implementations for identity management as shown in Scenarios III and IV have been overly complicated and cumbersome. Datong Token managed to simplify identity management as shown in examples .... 
 
+Datong Token reconstruct concepts and protocols for messaging and transactions, resulting in a general framework for conventional financial transactions involving national currencies as well as cryptocurrencies.
+
+In Datong Token, steps in messaging and transactions are broken down to bare minimum and reconstructed from the ground up, allowing it interface with a wide range of systems, from conventional financial transactions to cryptocurrencies. 
+
+While blockchain has inspired many novel ideas and projects, most have not been successfully deployed or gained popularity due to various factors. Besides the fundamental breakthrough in Datong Token in removing user registration while enabling authentication, Phos stack machine shell (Smashlet) .... better software engineering and better learning, getting more people involved ...
+(Use ... To indicate unfinished paragraph.)
+
 Datong Token reconstruct concepts and protocols for messaging and transactions .... a new platform to build new applications, unify all payment systems ....
 
 Explain: how to develop network of agents.
