@@ -1,4 +1,4 @@
-### Datong Token Examples (WebSocket + RSA) 
+### Datong Token: An ID-less Cryptocurrency Exchange Protocol
 
 #### 三生萬物 3-in-1 Module: Original App + Phos ( WebSocket + RSA )
 
