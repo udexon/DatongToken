@@ -13,6 +13,17 @@ Cryptocurrencies and the blockchain technologies have been the literal black hor
 Another area where novel methods in user identity management will be critical  is ___CLOUDLESS COMPUTING___, i.e. utilizing the computing power of mobile devices instead of those of the servers in the fixed line networks.
 
 
+#### Pitfalls of User ID
+
+Creating a new user ID for a new app or website has become one of the most troublesome task for every user. As such, is it possible to create an ID-less authentication system which eliminates the need of user ID while preserving existing functionalities?
+
+Consider the following examples:
+
+- [ Datong Token Online Tipping -- Outside China -- 大同支外宝 ](https://github.com/udexon/EMYL/blob/master/E003_Online_Tipping.md)
+
+- [ Datong Token Overview ](https://github.com/udexon/DatongToken/blob/master/Datong_Token_Overview.md)
+
+
 ### WebSocket + RSA
 
 The following is an example for Datong Token using WebSocket and RSA.
