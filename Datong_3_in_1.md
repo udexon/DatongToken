@@ -1,4 +1,4 @@
-### Datong Token: An ID-less Cryptocurrency Exchange Protocol
+### Datong Token: An ID-less Messaging & Cryptocurrency Exchange Protocol
 
 #### 三生萬物 3-in-1 Module: Original App + Phos ( WebSocket + RSA )
 
