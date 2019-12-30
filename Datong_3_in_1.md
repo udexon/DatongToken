@@ -83,4 +83,4 @@ Source code:
 https://github.com/udexon/DatongToken/tree/master/Datong_Phos
 
 
-- [ EMYL: Earn Money as You Learn -- A CLOUDLESS Open Source Platform to Learn Programming, One Word At A Time, using Forth like Reverse Polish Notation, rewarded with Cryptocurrencies ](https://github.com/udexon/EMYL)
+- [ EMYL: Earn Money as You Learn -- A _CLOUDLESS_ Open Source Platform to Learn Programming, One Word At A Time, using Forth like Reverse Polish Notation, rewarded with Cryptocurrencies ](https://github.com/udexon/EMYL)
